@@ -19,7 +19,7 @@ This mini‑repo contains everything you need to run the classic **Harry Potter�
 
 Make a color cloak “disappear” on camera using background substitution and color masking in HSV space.
 
-https://github.com/<your-username>/invisibility-cloak (replace with your repo URL)
+git clone (https://github.com/vishal-singh22/OpenCv.git)
 
 ## Demo (What it does)
 1. Capture a static background frame.
